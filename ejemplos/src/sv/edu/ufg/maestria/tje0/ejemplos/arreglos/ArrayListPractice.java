@@ -17,7 +17,7 @@ public class ArrayListPractice {
 	    
 	    //while arrays have a "length" instance variable
 	    //ArrayList has a "size()" method
-	    //they do the same. This is just to confuse you!
+	    //they do the same.
 	    for(int i = 0;i< list.size();i++){
 	      System.out.println( list.get(i) );
 	    }
