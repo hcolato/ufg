@@ -4,8 +4,7 @@ PASOS:
 
 1. Instalar GIT para eclipse (EGIT)
 2. importar repositorio y proyecto
-	usuario: hcolato
-	clave: colato1622!
+
 
 ---------------
 
