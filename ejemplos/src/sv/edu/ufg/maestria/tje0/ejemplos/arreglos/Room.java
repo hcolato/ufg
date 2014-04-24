@@ -6,7 +6,7 @@ public class Room {
 	  String name;
 	  int width;
 	  int length;
-	  double costSY;  //cost per square yard in colones
+	  double costSY;  //cost per square yard in dolars
 	  int area;  //width * height
 	  double total;  //area * costSY
 
