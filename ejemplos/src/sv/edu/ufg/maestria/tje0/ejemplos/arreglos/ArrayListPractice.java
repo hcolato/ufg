@@ -1,6 +1,8 @@
 package sv.edu.ufg.maestria.tje0.ejemplos.arreglos;
 
-import java.util.ArrayList;
+import java.util.*;
+
+//import java.util.ArrayList;
 
 /**
  * 
@@ -11,7 +13,8 @@ import java.util.ArrayList;
 public class ArrayListPractice {
 
 	public static void main(String[] args) {
-		ArrayList<String> list = new ArrayList<String>();
+		//ArrayList<String> list = new ArrayList<String>();
+		List<String> list = new ArrayList<String>(); 
 	    list.add("Fred");
 	    list.add("Wilma");
 	    list.add("Betty");
