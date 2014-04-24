@@ -2,9 +2,6 @@ package sv.edu.ufg.maestria.tje0.ejemplos.exceptions;
 
 public class MyClassMultiCatch {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		String s;
 	    int i;
