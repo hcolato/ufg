@@ -1,0 +1,26 @@
+
+
+PASOS:
+
+1. Instalar GIT para eclipse (EGIT)
+2. importar repositorio y proyecto
+	usuario: hcolato
+	clave: colato1622!
+
+---------------
+
+Ejercicios
+
+Arreglos
+
+String[] cadenas;
+cadenas = new String[10];
+
+java -cp . MyClassArgs argumento1 "argumento2a argumento2b" otroArgumento
+
+jar -cvf miLibreria.jar ./*.class
+
+java -cp .:./miLibreria.jar MyClassArgs argumento1 "argumento2a argumento2b" otroArgumento
+
+
+
