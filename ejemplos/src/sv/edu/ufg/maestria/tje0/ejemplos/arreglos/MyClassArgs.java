@@ -7,7 +7,7 @@ public class MyClassArgs {
 	 */
 		  public static void main(String[] args){
 		    if(args.length == 0) {
-		      System.out.println("Duh, the whole point of this excersize is to use command line arguments");
+		      System.out.println("El objeto de este ejercicio son los arcumentos en la linea de comandos");
 		      return;
 		    }
 
