@@ -2,6 +2,12 @@ package sv.edu.ufg.maestria.tje0.ejemplos.arreglos;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author PC17
+ * Clase ejemplo...
+ */
+
 public class ArrayListPractice {
 
 	public static void main(String[] args) {
