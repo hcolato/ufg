@@ -1,5 +1,6 @@
 package sv.edu.ufg.maestria.tje0.ejemplos.util;
 
+
 //keyboard utility class
 //purpose: make keyboard io easier
 import java.io.*;
