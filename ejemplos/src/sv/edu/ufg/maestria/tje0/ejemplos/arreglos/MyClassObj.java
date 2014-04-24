@@ -7,7 +7,7 @@ public class MyClassObj {
 	 */
 	public static void main(String[] args) {
 		Room[] a;   //a is a reference (allocates 1 pointer)
-	    a = new Room[2];  //allocates 2 pointers (ref)
+	    a = new Room[2];  //allocates 2 pointers (references)
 
 	    //instantiate the Rooms
 	    for(int i = 0;i< a.length;i++){
