@@ -4,9 +4,6 @@ import sv.edu.ufg.maestria.tje0.ejemplos.util.*;
 
 public class TestKeyboard {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		String s;
 	    s = Keyboard.getString("Como se llama: ");
