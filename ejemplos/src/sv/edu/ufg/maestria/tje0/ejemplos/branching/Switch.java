@@ -21,7 +21,12 @@ public class Switch {
 	      break;
 	    case 4:
 	      System.out.println("Apr");    
-	      break;          
+	      break;
+	    case 5:
+	    case 6:
+	    case 7:
+	    	System.out.println(" May, Jun or Jul");
+	    break;  
 	    default:
 	      //this will execute for anything else
 	      System.out.println(m + " is not a valid month number"); 

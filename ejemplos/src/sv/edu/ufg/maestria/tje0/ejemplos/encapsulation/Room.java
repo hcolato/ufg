@@ -2,7 +2,7 @@ package sv.edu.ufg.maestria.tje0.ejemplos.encapsulation;
 
 public class Room {
 
-	private int width;
+	  private int width;
 	  private int length;
 	  private double costSY;  
 	  
