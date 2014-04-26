@@ -1,9 +1,9 @@
 package sv.edu.ufg.maestria.tje0.ejemplos.inheritence;
 
-public abstract class GeometricShapes {
+public abstract class RegularShapes {
 	float area;
 	
-	public GeometricShapes() { this.area = (float)0.0; }
+	public RegularShapes() { this.area = (float)0.0; }
 	
 	public abstract float calcArea();
 	public void printMsg(String msg) {
