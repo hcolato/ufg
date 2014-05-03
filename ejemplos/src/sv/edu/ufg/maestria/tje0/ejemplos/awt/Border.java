@@ -8,7 +8,8 @@ class Border{
     Button b1 = new Button("OK");
     Button b2 = new Button("Cancel");
     Button b3 = new Button("Jump");
-    Button b4 = new Button("Throw mama From the Train");            
+    Button b4 = new Button("Throw mama From the Train");
+    Button b5 = new Button("Soy Oeste");
     
     LayoutManager lo = new BorderLayout();
     f.setLayout(lo);
@@ -16,6 +17,7 @@ class Border{
     f.add(b2,BorderLayout.EAST);
     f.add(b3,BorderLayout.SOUTH);
     f.add(b4,BorderLayout.CENTER);
+    f.add(b5,BorderLayout.WEST);
     
     //f.setSize(300,300);
     f.pack();  //uses preferredSize of components to size the Frame

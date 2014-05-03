@@ -42,7 +42,7 @@ public class MyFrame extends JFrame{
   
   private class OpenHandler extends AbstractAction{
     OpenHandler(){
-      super("Open", new ImageIcon("hello.gif") );
+      super("Open", new ImageIcon("./hello.gif") );
     }
     public void actionPerformed(ActionEvent ev){
       JDialog jd = new JDialog(MyFrame.this,"Yo Dude");  
